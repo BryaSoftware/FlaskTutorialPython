@@ -1,11 +1,28 @@
 # FlaskTutorialPython
-Download the Zip file or git Clone
+Welcome to Flask Tutorial By BryaSoftware!
 
-Use the SQL Scripts to create the necessary tables and stored procedures.
+# Install
+Git clone https://github.com/BryaSoftware/FlaskTutorialPython.git
 
-Only Data which needs to be changed is changing config file to fit your connection specifications ie(username etc).
-And change the SQL Script to use the correct database name
 
-Enjoy BryaSoftware!
+# Requirements
+MySQL
+Python
+Pip
+Postman
+Git
 
-bryasoftware@gmail.com
+
+# Usage
+
+Install the requirements
+
+Flask is a lightweight WSGI Application framework, with this tutorial you'll have a basic project capable of the simplest task and adaptable to even the most complex applications
+
+# Author
+
+For futher information contact me - bryasoftware@gmail.com
+
+# Updates
+
+Guides will be undergoing a major update during October 2019
